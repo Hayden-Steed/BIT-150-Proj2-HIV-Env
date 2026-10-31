@@ -1,0 +1,7 @@
+name: bit150
+channels:
+  - conda-forge
+dependencies:
+  - samtools
+  - bwa
+prefix: /home/hayden/miniforge3/envs/bit150
